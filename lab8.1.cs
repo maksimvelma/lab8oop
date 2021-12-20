@@ -2,7 +2,7 @@ using System;
 using System.IO;
 using System.Text;
 
-namespace lab8.1
+namespace lab8
 {
 
     class Program
